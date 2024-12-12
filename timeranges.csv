@@ -1,0 +1,8 @@
+start,end,description
+2024-01-19 03:25:34,2024-01-19 05:37:01, Full 1sec data
+2024-01-19 03:25:34,2024-01-19 05:24:33, 1sec data until Incident
+2024-01-18 05:00:00,2024-01-19 10:15:00, Full 1min data
+2024-01-18 05:00:00,2024-01-19 05:24:33, 1min data until Incident
+2024-01-19 04:00:00,2024-01-19 05:24:33, Hour before Incident
+2024-01-19 05:00:00,2024-01-19 05:24:33, Half-Hour before Incident
+2024-01-18 20:00:20,2024-01-19 09:49:21, Alarms Duration
